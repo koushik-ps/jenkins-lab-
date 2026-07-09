@@ -3,4 +3,4 @@ demo for learning
 Release Manager Demo Feature
 ## About Page
 
-Status: In Progressssss
+Reviewed by: Team
