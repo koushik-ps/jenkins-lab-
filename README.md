@@ -6,4 +6,8 @@ Release Manager Demo Feature
 Reviewed by: Team
 Banking Application
 
+
 Login Feature by Rahul
+
+Payment Feature by Priya
+feature/JIRA-302-conflict-payment
