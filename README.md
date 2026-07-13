@@ -17,6 +17,11 @@ Dashboard Line
 Dashboard Line 2
 Dashboard line 3
 Dashboard line 4
+<<<<<<< HEAD
 HOTFIX by Priya
 Login Feature - Step 1
 
+=======
+Login Feature - Step 1
+Login Feature - Step 2
+>>>>>>> 17a66c7 (JIRA-601 Login commit 2)
