@@ -18,3 +18,4 @@ Dashboard Line 2
 Dashboard line 3
 Dashboard line 4
 HOTFIX by Priya
+setting crash fixed
